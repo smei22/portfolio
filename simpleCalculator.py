@@ -8,9 +8,7 @@ def add(num1, num2):
 print("Welcome Preschoolers to Simple Calculator")
 print("Enter an Operation: ")
 
-              int1 = int(input("Enter your first number: "))
-                        int2 = int(input("Enter your second number: "))
-                        add(int1, -int2)
+              
 def simpleCalculator():
         while True:
                 print("""1. Addition
@@ -28,7 +26,9 @@ def simpleCalculator():
 
 
                 elif operation == 2:
-          
+                        int1 = int(input("Enter your first number: "))
+                        int2 = int(input("Enter your second number: "))
+                        add(int1, -int2)
                 elif operation == 3:
                         int1 = int(input("Enter your first number: "))
                         int2 = int(input("Enter your second number: "))
