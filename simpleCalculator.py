@@ -27,22 +27,22 @@ def simpleCalculator():
                         add(int1, int2)
 
 
-                if operation == 2:
+                elif operation == 2:
           
-                if operation == 3:
+                elif operation == 3:
                         int1 = int(input("Enter your first number: "))
                         int2 = int(input("Enter your second number: "))
                         quotient = int1 // int2
                         print("The result is: " + quotient)
 
 
-                if operation == 4:
+                elif operation == 4:
                         int1 = int(input("Enter your first number: "))
                         int2 = int(input("Enter your second number: "))
                         product = int1 * int2
                         print("The result is: " + product)
 
-                if operation == 5:
+                elif operation == 5:
                         break
 
 simpleCalculator()
