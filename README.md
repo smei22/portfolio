@@ -2,6 +2,10 @@
 My proud projects over Semester 1...
 
 
+
+
+
+
 Project Title: Name
   Summary: A series of questions will be asked to the user in order to determine the meal they shall eat in a fine dining diner. Each choice will determine the dish given!
   Key Features: 
