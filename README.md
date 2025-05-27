@@ -41,6 +41,23 @@ Project Title: Simple Calculator
   Key Features:   
                 - Organized layout
                 - Utilizes "while True" function well
+
+Project Title: Cookiep
+  Summary: User can ask what ingredients, bake time, type of cookie, etc they wish to use, and the system will return a recommended cookie recipe. This program helps 
+	   bakers to bake a myriad of different cookies!
+  Key Features:
+  		- Many Different Cookie Selections
+    		- Many Different User Options and Inputs
+      		- Visual Images of Cookies and Links to Recipe neatly formatted and printed
+
+ Project Title: DogBreeds
+  Summary: User can ask what skills, size, etc of dogs they wish to review, and the system will return a recommended dog breed. This program helps 
+	   potential dog owners to find their perfect dog match!
+  Key Features:
+  		- Many Different Dog Breed Selections
+    		- Many Different User Options and Inputs
+      		- Visual Images Information of Dogs neatly formatted and printed
+	
               
                 
   
